@@ -1,0 +1,13 @@
+git checkout -b 
+
+Fast Forward is a linear history Recursive is used when you have 2 sets of different commits 
+on the 2 branches being merged.
+
+git checkout 
+
+git branch -d 
+
+Merge conflicts happen when there is a new commit on master that is not present on the 
+branch being merged that also has a new commit not present on master.
+
+
